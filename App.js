@@ -14,7 +14,7 @@ const App = () => {
       >
         <View style={styles.card}>
           <Image
-            source={{ uri: "https://via.placeholder.com/280x300" }} // Replace with your image URL
+            source={{ uri: "https://avatars.githubusercontent.com/u/43656863?v=4" }} // Replace with your image URL
             style={styles.image}
           />
           <View style={styles.content}>
