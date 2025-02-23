@@ -23,4 +23,4 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-native-card-app.git
+   git clone https://github.com/aminekhadraoui/react-native-card-app.git
